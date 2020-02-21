@@ -1,0 +1,5 @@
+﻿  SA_TSP.cpp
+C:\Users\57002\Desktop\TSP\TSP\SA_TSP.cpp(132,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  testmain.cpp
+  正在生成代码...
+  TSP.vcxproj -> C:\Users\57002\Desktop\TSP\Debug\TSP.exe
